@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Rokkitt');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+  font-family: Rokkitt, serif;
+}
+.icon {
+  font-size: 50px;
+}
+.topo {
+  margin-top: 100px;
+}
+
+.meio {
+  margin-top: 100px;
+}
+.borda {
+  background: #83d0f2;
+  border-radius: 5px;
+  min-height: 150px;
+  max-height: 200px;
+  padding-top: 50px;
+}
